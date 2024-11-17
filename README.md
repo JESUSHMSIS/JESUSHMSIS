@@ -27,11 +27,11 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me
 ## 📊 Mis estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=JESUSHMSIS&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESUSHMSIS&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
 
 ---
