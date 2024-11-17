@@ -36,7 +36,7 @@ Apasionado por crear aplicaciones modernas, escalables y eficientes, desde el di
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernam=JESUSHMSIS&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESUSHMSIS&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="400">
 </p>
 
 <p align="center">
