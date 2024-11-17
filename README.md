@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Jesus 👨‍💻
 
+![Programando](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 🎯 **Sobre mí:**  
 Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me especializo en crear aplicaciones web y móviles con un enfoque en la calidad del código y la experiencia del usuario.
 
