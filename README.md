@@ -29,26 +29,6 @@ Apasionado por crear aplicaciones modernas, escalables y eficientes, desde el di
 
 ---
 
-## 📊 Mis estadísticas de GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JESUSHMSIS&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="400">
-</p>
-
----
-
-## 🌟 Proyectos destacados:
-
-### 🚀 [**E-commerce Full Stack con React y Node.js**](https://github.com/tu_usuario/proyecto-ecommerce)
-Una aplicación de comercio electrónico moderna con integración de API, autenticación segura y panel de administración.
-
-### 📚 [**LMS con Next.js y NestJS**](https://github.com/tu_usuario/proyecto-lms)
-Un sistema de gestión de aprendizaje con arquitectura avanzada y soporte para múltiples usuarios.
-
-### 💡 [**DevOps Automatizado con Docker y AWS**](https://github.com/tu_usuario/proyecto-devops)
-Automatización de despliegues para aplicaciones web utilizando contenedores y herramientas en la nube.
-
----
 
 ## 📫 Conéctate conmigo:
 - **LinkedIn:** [Tu Nombre](https://linkedin.com/in/tu-perfil)
