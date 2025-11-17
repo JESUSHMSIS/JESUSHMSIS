@@ -43,6 +43,10 @@ Apasionado por crear aplicaciones modernas, escalables y eficientes, desde el di
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JESUSHMSIS&theme=tokyonight" alt="Racha de contribuciones" width="400">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JESUSHMSIS&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="400">
+</p>
+
 ---
 
 ## 🌟 Proyectos destacados:
