@@ -40,9 +40,3 @@ Apasionado por crear aplicaciones modernas, escalables y eficientes, desde el di
 ## 🎯 Mi lema:
 *"El código limpio y eficiente es la clave para proyectos exitosos."*
 
----
-
-## 🎥 Una mirada a mi trabajo:
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Programando">
-</p>
