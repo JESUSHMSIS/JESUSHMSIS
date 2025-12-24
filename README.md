@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jesus
 
 🎯 **Desarrollador Full Stack especializado en el ecosistema JavaScript**  
-Apasionado por crear aplicaciones modernas, escalables y eficientes, desde el diseño del frontend hasta la gestión del backend. ¡Me encanta aprender y explorar nuevas tecnologías para ofrecer soluciones de alta calidad!
+Apasionado por crear aplicaciones modernas, escalables y eficientes, desde el diseño del frontend hasta la gestión del backend. ¡Me encanta aprender y explorar nuevas tecnologías para ofrecer soluciones de alta calidad!!!
 
 ---
 
